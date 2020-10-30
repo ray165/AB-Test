@@ -12,3 +12,6 @@ Outlay:
 The library is having trouble engaging with users through their interact button. To change things up, they hope renaming the interact-button will lead to a much higher click through rate. To identify a better alternative to interact, an AB test is done with four different variants: Connect, Learn, Help, and Services. 
 
 <img src="https://github.com/ray165/AB-Test/blob/master/Heatmap%20Homepage%20Version%201%20-%20Interact,%205-29-2013.jpg?raw=true" width="550">
+
+Calculation:
+Finding which click through rate is the best is not simply grabbing the highest number. Rather, we need to figure out whether it was caused by randomness. If the variant's click through rate isn't expected to be consistent, then it may not be an ideal choice. 
